@@ -22,7 +22,7 @@ The goal of this portfolio is to showcase my technical abilities, creativity, an
 
 ## 🚀 Live Demo
 
-[Visit My Portfolio] (YOUR_PORTFOLIO_URL)
+Visit My Portfolio - (YOUR_PORTFOLIO_URL)
 
 ## 🛠️ Technologies Used
 
@@ -34,8 +34,8 @@ The goal of this portfolio is to showcase my technical abilities, creativity, an
 
 I'm always open to connecting, collaborating, and exploring new opportunities.
 
-- **GitHub:** Srushti Badukale (YOUR_GITHUB_URL)
-- **LinkedIn:** Srushti Badukale (YOUR_LINKEDIN_URL)
+- **GitHub:** Srushti Badukale - https://github.com/srushtib08
+- **LinkedIn:** Srushti Badukale - https://www.linkedin.com/in/srushti-badukale-15941720a
 - **Email:** srushtibadukale@gmail.com
 
 ---
